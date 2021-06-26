@@ -44,7 +44,7 @@
     "@types/prop-types": "^15.7.3",
     "@types/react": "^17.0.11",
     "@types/react-dom": "^17.0.8",
-    "prettier": "^2.3.0",
+    "prettier": "^2.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-test-renderer": "^17.0.2"
