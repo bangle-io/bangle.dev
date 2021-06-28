@@ -46,7 +46,7 @@
     "jest-circus": "^27.0.4",
     "jest-environment-puppeteer": "^5.0.4",
     "jest-puppeteer": "^5.0.4",
-    "prettier": "^2.3.0",
+    "prettier": "^2.3.1",
     "prosemirror-inputrules": "*",
     "prosemirror-model": "*",
     "prosemirror-state": "*",

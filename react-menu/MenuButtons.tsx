@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { useCallback } from 'react';
-import { rafCommandExec } from '@bangle.dev/core/utils/utils';
+import { rafCommandExec, filter } from '@bangle.dev/core/utils/utils';
 import {
   defaultKeys as italicKeys,
   queryIsItalicActive,
@@ -33,7 +33,6 @@ import {
   queryIsHeadingActive,
   toggleHeading,
 } from '@bangle.dev/core/components/heading';
-import { filter } from '@bangle.dev/core/utils/utils';
 import {
   createLink,
   queryIsLinkActive,

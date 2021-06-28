@@ -33,11 +33,17 @@ module.exports = {
     // 'import/no-unused-modules': [1, { unusedExports: true }],
   },
   settings: {
-    jest: {
+    'jest': {
       version: '26',
     },
-    react: {
-      version: '16',
+    'react': {
+      version: '17',
+    },
+    'import/extensions': ['.js', '.ts', '.tsx', '.jsx'],
+    'import/resolver': {
+      node: {
+        extensions: ['.js', '.ts', '.tsx', '.jsx'],
+      },
     },
   },
 };

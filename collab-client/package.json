@@ -45,7 +45,7 @@
     "@types/prosemirror-state": "^1.2.6",
     "@types/prosemirror-transform": "^1.1.3",
     "@types/prosemirror-view": "^1.17.1",
-    "prosemirror-collab": "*",
+    "prosemirror-collab": "^1.2.2",
     "prosemirror-model": "*",
     "prosemirror-transform": "*",
     "strict-event-emitter-types": "^2.0.0"
@@ -53,10 +53,10 @@
   "dependencies": {
     "localforage": "^1.9.0",
     "prosemirror-collab": "^1.2.2",
-    "prosemirror-model": "^1.14.1",
+    "prosemirror-model": "^1.14.2",
     "prosemirror-state": "^1.3.4",
     "prosemirror-transform": "^1.3.2",
-    "prosemirror-view": "^1.18.7"
+    "prosemirror-view": "^1.18.8"
   },
   "publishConfig": {
     "access": "public"
